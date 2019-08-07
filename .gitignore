@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/eiser
+/public/img
+/src/img
 
 # testing
 /coverage
